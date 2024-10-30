@@ -1,10 +1,10 @@
 # GitHub Users in Dublin
 
-This repository contains data about GitHub users in Delhi with over 50 followers and their repositories.
+This repository contains data about GitHub users in Dublin with over 50 followers and their repositories.
 
 ## Files
 
-1. `users.csv`: Contains information about 493 GitHub users in Delhi with over 50 followers
+1. `users.csv`: Contains information about 493 GitHub users in Dublin with over 50 followers
 2. `repositories.csv`: Contains information about 29648 public repositories from these users
 3. `gitscrap.py`: Python script used to collect this data
 
